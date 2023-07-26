@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch Step-by-Step: A Beginner's Guide
+# Deep Learning with PyTorch Step-by-Step
 
 This repository contains practical deep learning tasks based on the book "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide" by Daniel. The book covers a wide range of topics, starting from the basics of gradient descent and progressing to fine-tuning large NLP models such as BERT and GPT-2 using HuggingFace. The content is divided into four parts:
 
