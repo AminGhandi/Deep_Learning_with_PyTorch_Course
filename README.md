@@ -19,14 +19,6 @@ This repository contains practical deep learning tasks based on the book "Deep L
 - Self-attention
 - Transformers
 
-## Part IV: Natural Language Processing
-- Tokenization
-- Embeddings
-- Contextual word embeddings
-- ELMo
-- BERT
-- GPT-2
-
 Throughout this journey, I will provide detailed explanations for each code cell and write brief yet useful descriptions. Additionally, for each lecture, I will provide thorough instructions and highlight important points.
 
 Please refer to the respective sections and lectures for more information and guidance.
